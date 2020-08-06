@@ -1,5 +1,5 @@
 Be Nice Please Public License
-Version 2, FEBUARY 2020
+Version 2, FEBRUARY 2020
  
 Copyright (C) 2020 Milo Wheeler <milowheeler@protonmail.com>, Oscar Hill <admin@tascord.ai>
 
